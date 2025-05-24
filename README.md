@@ -71,5 +71,4 @@ Click **Send** to submit the request.
 {
   "message": "Reminder saved successfully"
 }
----
 
