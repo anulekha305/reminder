@@ -72,10 +72,4 @@ Click **Send** to submit the request.
   "message": "Reminder saved successfully"
 }
 ---
-## 📌 Notes
-* `reminderType` must be either `"SMS"` or `"Email"` (case-sensitive).
-* This API does not send SMS or Email — it only stores the data.
-* You can use tools like MongoDB Compass to verify the saved entries.
----
-
 
